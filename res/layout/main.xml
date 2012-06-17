@@ -9,5 +9,14 @@
     android:layout_height="wrap_content" 
     android:text="Hello World, MyActivity"
     />
+    <Button
+            android:id="@+id/qwerty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Run"/>
+    <Button android:id="@+id/button_next_screen1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="NextScreen"/>
 </LinearLayout>
 
